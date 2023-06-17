@@ -1,7 +1,7 @@
 <h1 align="center">FunPay Cardinal</h1>
 <h4 align="center">Простой и эффективный бот для автоматизации FunPay</h4>
 
-<h2 align="center">Перед началом настоятельно рекомендую залететь в наш <a href="deleted">Telegram чат (клик)</a>. Тут и поможем чем сможем и посидеть можно.</h2>
+<h2 align="center">Перед началом настоятельно рекомендую залететь в наш <a href="(https://t.me/funpay_cardinal)">Telegram чат (клик)</a>. Тут и поможем чем сможем и посидеть можно.</h2>
 
 <h2 align="center">Полная инструкция: <a href="deleted">deleted</a>
 
@@ -90,7 +90,7 @@
 
 1. Скачайте и установите [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe).
    1. При установке поставьте галочку у `Add python.exe to PATH` на первом экране установки.
-2. Скачайте [FunPay Cardinal](https://github.com/deleted/FunPayCardinal/archive/refs/heads/master.zip)
+2. Скачайте [FunPay Cardinal](https://github.com/noxy128/FPC-Clear/releases)
 3. Перенести папку `FunPayCardinal-master` в нужное вам место.
 4. Перейдите в папку `FunPayCardinal-master`.
 5. В адресной строке введите `cmd` и нажмите `Enter`. <img src="https://i.ibb.co/0mjkf9Q/explorer-Zcsm-Ife-XFl.png">
