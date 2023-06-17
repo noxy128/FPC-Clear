@@ -1,0 +1,509 @@
+[14:00:24][main.py][75]> D: ------------------------------------------------------------------
+[14:00:24][main.py][93]> I: Загружаю конфиг _main.cfg...
+[14:00:24][main.py][98]> I: Загружаю конфиг auto_response.cfg...
+[14:00:24][main.py][102]> I: Загружаю конфиг auto_delivery.cfg...
+[14:00:24][cardinal.py][712]> I: Хэндлеры из handlers.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из announcements.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[14:00:24][bot.py][1019]> I: Telegram бот инициализирован.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[14:00:24][cardinal.py][712]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[14:00:24][bot.py][1027]> I: Telegram бот @Dota2Funpaysms_bot запущен.
+[14:00:25][cardinal.py][212]> I: 
+[14:00:25][cardinal.py][212]> I: ------------------------------------------------------------
+[14:00:25][cardinal.py][212]> I: * Добрый день, DotaAccRent.                                *
+[14:00:25][cardinal.py][212]> I: * Ваш ID: 7648138.                                         *
+[14:00:25][cardinal.py][212]> I: * Ваш текущий баланс: 10.0 RUB | 0.0 USD | 0.0 EUR         *
+[14:00:25][cardinal.py][212]> I: * Текущие незавершенные сделки: 0.                         *
+[14:00:25][cardinal.py][212]> I: * Удачной торговли!                                        *
+[14:00:25][cardinal.py][212]> I: ------------------------------------------------------------
+[14:00:25][cardinal.py][212]> I: 
+[14:00:25][cardinal.py][238]> I: Получаю данные о лотах и категориях...
+[14:00:25][cardinal.py][263]> I: Обновил информацию о лотах (2) и категориях (1) профиля.
+[14:00:25][cardinal.py][267]> I: Обновил информацию о лотах (2) и категориях (1) профиля (TG ПУ).
+[14:00:25][cardinal.py][497]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[14:00:25][cardinal.py][515]> I: Цикл обновления сессии запущен.
+[14:00:26][runner.py][113]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 7648138, 'tag': '5ertbpf7', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 7648138, 'tag': '87fx7nip', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=68117387" class="contact-item" data-id="68117387">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kl/9i/kl9i50myhhj9jn76fwxb.jpg);"></div>\n            </div>\n            <div class="media-user-name">XuperX</div>\n                            <div class="contact-item-message">Покупатель XuperX написал отзыв к заказу #E3RGN157.</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68203201" class="contact-item" data-id="68203201">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">azurebossu</div>\n                            <div class="contact-item-message">все, уже не над</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68173812" class="contact-item" data-id="68173812">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flycking</div>\n                            <div class="contact-item-message">\u2064Так что вы будете покупать?</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68142775" class="contact-item" data-id="68142775">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">dotacimustafaka12</div>\n                            <div class="contact-item-message">\u2064Давай я щас лот создам за 150₽</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68109913" class="contact-item" data-id="68109913">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">FunPay</div>\n                            <div class="contact-item-message">Также иногда мошенники присылают скриншоты «оплаты», которым ни в коем случае нельзя доверять.\n\nПеред выполнением заказа всегда проверяйте наличие оплаты в разделе «Мои продажи».\n\nНа всякий случай повторяем ещё раз самое главное:\n\nПеред выполнением з</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n    </div>'}}], 'response': False}
+[14:00:26][account.py][740]> D: Ответ FunPay (поднятие категорий): {'msg': 'Подождите 2 часа.', 'error': 1}.
+[14:00:26][cardinal.py][315]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 2ч.
+[14:00:30][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:34][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:38][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:42][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:46][bot.py][293]> W: @GodofNecromastery (ID: 1198618301) нажимает кнопки ПУ в чате @GodofNecromastery (ID: 1198618301). У него ничего не выйдет!
+[14:00:47][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:51][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:54][bot.py][285]> W: @GodofNecromastery (ID: 1198618301) попытался получить доступ к ПУ. Сдерживаю его как могу!
+[14:00:55][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:00:57][bot.py][285]> W: @GodofNecromastery (ID: 1198618301) попытался получить доступ к ПУ. Сдерживаю его как могу!
+[14:00:59][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:01][bot.py][281]> W: @GodofNecromastery (ID: 1198618301) получил доступ к ПУ.
+[14:01:03][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:07][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:12][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:16][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:20][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:24][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:28][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:32][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:37][main.py][75]> D: ------------------------------------------------------------------
+[14:01:37][main.py][93]> I: Загружаю конфиг _main.cfg...
+[14:01:37][main.py][98]> I: Загружаю конфиг auto_response.cfg...
+[14:01:37][main.py][102]> I: Загружаю конфиг auto_delivery.cfg...
+[14:01:37][cardinal.py][712]> I: Хэндлеры из handlers.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из announcements.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[14:01:37][bot.py][1019]> I: Telegram бот инициализирован.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[14:01:37][cardinal.py][712]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[14:01:37][bot.py][1027]> I: Telegram бот @Dota2Funpaysms_bot запущен.
+[14:01:40][cardinal.py][212]> I: 
+[14:01:40][cardinal.py][212]> I: ------------------------------------------------------------
+[14:01:40][cardinal.py][212]> I: * Добрый день, DotaAccRent.                                *
+[14:01:40][cardinal.py][212]> I: * Ваш ID: 7648138.                                         *
+[14:01:40][cardinal.py][212]> I: * Ваш текущий баланс: 10.0 RUB | 0.0 USD | 0.0 EUR         *
+[14:01:40][cardinal.py][212]> I: * Текущие незавершенные сделки: 0.                         *
+[14:01:40][cardinal.py][212]> I: * Удачной торговли!                                        *
+[14:01:40][cardinal.py][212]> I: ------------------------------------------------------------
+[14:01:40][cardinal.py][212]> I: 
+[14:01:40][cardinal.py][238]> I: Получаю данные о лотах и категориях...
+[14:01:40][cardinal.py][263]> I: Обновил информацию о лотах (2) и категориях (1) профиля.
+[14:01:40][cardinal.py][267]> I: Обновил информацию о лотах (2) и категориях (1) профиля (TG ПУ).
+[14:01:40][cardinal.py][497]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[14:01:40][cardinal.py][515]> I: Цикл обновления сессии запущен.
+[14:01:40][runner.py][113]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 7648138, 'tag': '5ertbpf7', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 7648138, 'tag': '87fx7nip', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=68117387" class="contact-item" data-id="68117387">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kl/9i/kl9i50myhhj9jn76fwxb.jpg);"></div>\n            </div>\n            <div class="media-user-name">XuperX</div>\n                            <div class="contact-item-message">Покупатель XuperX написал отзыв к заказу #E3RGN157.</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68203201" class="contact-item" data-id="68203201">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">azurebossu</div>\n                            <div class="contact-item-message">все, уже не над</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68173812" class="contact-item" data-id="68173812">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flycking</div>\n                            <div class="contact-item-message">\u2064Так что вы будете покупать?</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68142775" class="contact-item" data-id="68142775">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">dotacimustafaka12</div>\n                            <div class="contact-item-message">\u2064Давай я щас лот создам за 150₽</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68109913" class="contact-item" data-id="68109913">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">FunPay</div>\n                            <div class="contact-item-message">Также иногда мошенники присылают скриншоты «оплаты», которым ни в коем случае нельзя доверять.\n\nПеред выполнением заказа всегда проверяйте наличие оплаты в разделе «Мои продажи».\n\nНа всякий случай повторяем ещё раз самое главное:\n\nПеред выполнением з</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n    </div>'}}], 'response': False}
+[14:01:40][account.py][740]> D: Ответ FunPay (поднятие категорий): {'msg': 'Подождите 2 часа.', 'error': 1}.
+[14:01:40][cardinal.py][315]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 2ч.
+[14:01:44][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:01:53][main.py][75]> D: ------------------------------------------------------------------
+[14:01:53][main.py][93]> I: Загружаю конфиг _main.cfg...
+[14:01:53][main.py][98]> I: Загружаю конфиг auto_response.cfg...
+[14:01:53][main.py][102]> I: Загружаю конфиг auto_delivery.cfg...
+[14:01:53][cardinal.py][712]> I: Хэндлеры из handlers.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из announcements.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[14:01:53][bot.py][1019]> I: Telegram бот инициализирован.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[14:01:53][cardinal.py][712]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[14:01:53][bot.py][1027]> I: Telegram бот @Dota2Funpaysms_bot запущен.
+[14:01:54][cardinal.py][212]> I: 
+[14:01:54][cardinal.py][212]> I: ------------------------------------------------------------
+[14:01:54][cardinal.py][212]> I: * Добрый день, DotaAccRent.                                *
+[14:01:54][cardinal.py][212]> I: * Ваш ID: 7648138.                                         *
+[14:01:54][cardinal.py][212]> I: * Ваш текущий баланс: 10.0 RUB | 0.0 USD | 0.0 EUR         *
+[14:01:54][cardinal.py][212]> I: * Текущие незавершенные сделки: 0.                         *
+[14:01:54][cardinal.py][212]> I: * Удачной торговли!                                        *
+[14:01:54][cardinal.py][212]> I: ------------------------------------------------------------
+[14:01:54][cardinal.py][212]> I: 
+[14:01:54][cardinal.py][238]> I: Получаю данные о лотах и категориях...
+[14:01:54][cardinal.py][263]> I: Обновил информацию о лотах (2) и категориях (1) профиля.
+[14:01:54][cardinal.py][267]> I: Обновил информацию о лотах (2) и категориях (1) профиля (TG ПУ).
+[14:01:54][cardinal.py][497]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[14:01:54][cardinal.py][515]> I: Цикл обновления сессии запущен.
+[14:01:55][runner.py][113]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 7648138, 'tag': '5ertbpf7', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 7648138, 'tag': '87fx7nip', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=68117387" class="contact-item" data-id="68117387">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kl/9i/kl9i50myhhj9jn76fwxb.jpg);"></div>\n            </div>\n            <div class="media-user-name">XuperX</div>\n                            <div class="contact-item-message">Покупатель XuperX написал отзыв к заказу #E3RGN157.</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68203201" class="contact-item" data-id="68203201">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">azurebossu</div>\n                            <div class="contact-item-message">все, уже не над</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68173812" class="contact-item" data-id="68173812">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flycking</div>\n                            <div class="contact-item-message">\u2064Так что вы будете покупать?</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68142775" class="contact-item" data-id="68142775">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">dotacimustafaka12</div>\n                            <div class="contact-item-message">\u2064Давай я щас лот создам за 150₽</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68109913" class="contact-item" data-id="68109913">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">FunPay</div>\n                            <div class="contact-item-message">Также иногда мошенники присылают скриншоты «оплаты», которым ни в коем случае нельзя доверять.\n\nПеред выполнением заказа всегда проверяйте наличие оплаты в разделе «Мои продажи».\n\nНа всякий случай повторяем ещё раз самое главное:\n\nПеред выполнением з</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n    </div>'}}], 'response': False}
+[14:01:55][account.py][740]> D: Ответ FunPay (поднятие категорий): {'msg': 'Подождите 2 часа.', 'error': 1}.
+[14:01:55][cardinal.py][315]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 2ч.
+[14:01:59][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:03][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:07][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:11][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:20][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:24][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:28][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:32][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:37][main.py][75]> D: ------------------------------------------------------------------
+[14:02:37][main.py][93]> I: Загружаю конфиг _main.cfg...
+[14:02:37][main.py][98]> I: Загружаю конфиг auto_response.cfg...
+[14:02:37][main.py][102]> I: Загружаю конфиг auto_delivery.cfg...
+[14:02:37][cardinal.py][712]> I: Хэндлеры из handlers.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из announcements.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[14:02:37][bot.py][1019]> I: Telegram бот инициализирован.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[14:02:37][cardinal.py][712]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[14:02:38][bot.py][1027]> I: Telegram бот @Dota2Funpaysms_bot запущен.
+[14:02:39][cardinal.py][212]> I: 
+[14:02:39][cardinal.py][212]> I: ------------------------------------------------------------
+[14:02:39][cardinal.py][212]> I: * Добрый день, DotaAccRent.                                *
+[14:02:39][cardinal.py][212]> I: * Ваш ID: 7648138.                                         *
+[14:02:39][cardinal.py][212]> I: * Ваш текущий баланс: 10.0 RUB | 0.0 USD | 0.0 EUR         *
+[14:02:39][cardinal.py][212]> I: * Текущие незавершенные сделки: 0.                         *
+[14:02:39][cardinal.py][212]> I: * Удачной торговли!                                        *
+[14:02:39][cardinal.py][212]> I: ------------------------------------------------------------
+[14:02:39][cardinal.py][212]> I: 
+[14:02:39][cardinal.py][238]> I: Получаю данные о лотах и категориях...
+[14:02:39][cardinal.py][263]> I: Обновил информацию о лотах (2) и категориях (1) профиля.
+[14:02:39][cardinal.py][267]> I: Обновил информацию о лотах (2) и категориях (1) профиля (TG ПУ).
+[14:02:39][cardinal.py][497]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[14:02:39][cardinal.py][515]> I: Цикл обновления сессии запущен.
+[14:02:39][runner.py][113]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 7648138, 'tag': '5ertbpf7', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 7648138, 'tag': '87fx7nip', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=68117387" class="contact-item" data-id="68117387">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kl/9i/kl9i50myhhj9jn76fwxb.jpg);"></div>\n            </div>\n            <div class="media-user-name">XuperX</div>\n                            <div class="contact-item-message">Покупатель XuperX написал отзыв к заказу #E3RGN157.</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68203201" class="contact-item" data-id="68203201">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">azurebossu</div>\n                            <div class="contact-item-message">все, уже не над</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68173812" class="contact-item" data-id="68173812">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flycking</div>\n                            <div class="contact-item-message">\u2064Так что вы будете покупать?</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68142775" class="contact-item" data-id="68142775">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">dotacimustafaka12</div>\n                            <div class="contact-item-message">\u2064Давай я щас лот создам за 150₽</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68109913" class="contact-item" data-id="68109913">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">FunPay</div>\n                            <div class="contact-item-message">Также иногда мошенники присылают скриншоты «оплаты», которым ни в коем случае нельзя доверять.\n\nПеред выполнением заказа всегда проверяйте наличие оплаты в разделе «Мои продажи».\n\nНа всякий случай повторяем ещё раз самое главное:\n\nПеред выполнением з</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n    </div>'}}], 'response': False}
+[14:02:40][account.py][740]> D: Ответ FunPay (поднятие категорий): {'msg': 'Подождите 2 часа.', 'error': 1}.
+[14:02:40][cardinal.py][315]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 2ч.
+[14:02:43][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:52][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:02:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:04][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:13][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:17][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:29][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:42][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:46][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:03:58][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:02][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:07][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:11][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:23][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:27][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:32][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:36][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:40][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:44][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:52][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:04:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:01][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:05][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:09][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:13][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:17][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:30][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:34][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:38][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:42][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:46][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:55][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:05:59][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:03][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:07][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:11][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:24][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:28][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:32][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:36][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:40][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:44][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:49][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:53][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:06:57][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:01][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:05][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:09][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:14][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:18][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:22][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:26][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:30][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:34][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:39][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:43][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:47][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:51][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:55][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:07:59][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:03][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:12][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:16][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:20][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:24][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:28][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:41][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:45][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:49][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:53][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:08:57][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:02][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:06][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:10][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:14][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:18][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:22][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:26][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:31][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:35][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:39][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:43][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:47][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:51][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:09:55][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:04][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:12][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:16][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:20][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:29][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:41][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:45][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:49][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:10:58][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:02][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:06][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:10][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:14][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:23][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:27][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:31][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:35][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:39][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:43][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:52][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:11:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:04][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:12][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:17][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:29][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:42][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:46][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:12:58][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:02][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:06][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:11][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:23][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:27][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:31][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:36][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:40][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:44][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:52][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:13:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:05][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:09][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:13][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:17][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:30][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:34][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:38][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:42][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:46][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:14:59][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:03][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:07][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:11][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:24][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:28][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:32][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:36][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:40][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:44][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:53][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:15:57][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:01][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:05][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:10][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:14][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:18][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:22][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:16:48][main.py][75]> D: ------------------------------------------------------------------
+[14:16:48][main.py][93]> I: Загружаю конфиг _main.cfg...
+[14:16:48][main.py][98]> I: Загружаю конфиг auto_response.cfg...
+[14:16:48][main.py][102]> I: Загружаю конфиг auto_delivery.cfg...
+[14:16:48][cardinal.py][712]> I: Хэндлеры из handlers.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из announcements.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[14:16:48][bot.py][1019]> I: Telegram бот инициализирован.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[14:16:48][cardinal.py][712]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[14:16:49][bot.py][1027]> I: Telegram бот @Dota2Funpaysms_bot запущен.
+[14:16:51][cardinal.py][212]> I: 
+[14:16:51][cardinal.py][212]> I: ------------------------------------------------------------
+[14:16:51][cardinal.py][212]> I: * Добрый день, DotaAccRent.                                *
+[14:16:51][cardinal.py][212]> I: * Ваш ID: 7648138.                                         *
+[14:16:51][cardinal.py][212]> I: * Ваш текущий баланс: 10.0 RUB | 0.0 USD | 0.0 EUR         *
+[14:16:51][cardinal.py][212]> I: * Текущие незавершенные сделки: 0.                         *
+[14:16:51][cardinal.py][212]> I: * Удачной торговли!                                        *
+[14:16:51][cardinal.py][212]> I: ------------------------------------------------------------
+[14:16:51][cardinal.py][212]> I: 
+[14:16:51][cardinal.py][238]> I: Получаю данные о лотах и категориях...
+[14:16:51][cardinal.py][263]> I: Обновил информацию о лотах (2) и категориях (1) профиля.
+[14:16:51][cardinal.py][267]> I: Обновил информацию о лотах (2) и категориях (1) профиля (TG ПУ).
+[14:16:51][cardinal.py][497]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[14:16:51][cardinal.py][515]> I: Цикл обновления сессии запущен.
+[14:16:51][runner.py][113]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 7648138, 'tag': '5ertbpf7', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 7648138, 'tag': '87fx7nip', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=68117387" class="contact-item" data-id="68117387">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kl/9i/kl9i50myhhj9jn76fwxb.jpg);"></div>\n            </div>\n            <div class="media-user-name">XuperX</div>\n                            <div class="contact-item-message">Покупатель XuperX написал отзыв к заказу #E3RGN157.</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68203201" class="contact-item" data-id="68203201">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">azurebossu</div>\n                            <div class="contact-item-message">все, уже не над</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68173812" class="contact-item" data-id="68173812">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flycking</div>\n                            <div class="contact-item-message">\u2064Так что вы будете покупать?</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68142775" class="contact-item" data-id="68142775">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">dotacimustafaka12</div>\n                            <div class="contact-item-message">\u2064Давай я щас лот создам за 150₽</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68109913" class="contact-item" data-id="68109913">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">FunPay</div>\n                            <div class="contact-item-message">Также иногда мошенники присылают скриншоты «оплаты», которым ни в коем случае нельзя доверять.\n\nПеред выполнением заказа всегда проверяйте наличие оплаты в разделе «Мои продажи».\n\nНа всякий случай повторяем ещё раз самое главное:\n\nПеред выполнением з</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n    </div>'}}], 'response': False}
+[14:16:52][account.py][740]> D: Ответ FunPay (поднятие категорий): {'msg': 'Подождите 2 часа.', 'error': 1}.
+[14:16:52][cardinal.py][315]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 2ч.
+[14:16:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:04][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:12][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:17][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:29][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:41][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:46][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:54][updater.py][92]> D: Update status code is 404!
+[14:17:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:17:56][updater.py][92]> D: Update status code is 404!
+[14:17:58][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:02][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:06][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:11][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:15][updater.py][92]> D: Update status code is 404!
+[14:18:17][updater.py][92]> D: Update status code is 404!
+[14:18:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:24][main.py][75]> D: ------------------------------------------------------------------
+[14:18:24][main.py][93]> I: Загружаю конфиг _main.cfg...
+[14:18:24][main.py][98]> I: Загружаю конфиг auto_response.cfg...
+[14:18:24][main.py][102]> I: Загружаю конфиг auto_delivery.cfg...
+[14:18:24][cardinal.py][712]> I: Хэндлеры из handlers.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из announcements.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из plugins.copy_lots_plugin.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из plugins.list_old_orders.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из plugins.old_keyboard_plugin.py зарегистрированы.
+[14:18:24][bot.py][1019]> I: Telegram бот инициализирован.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_response_cp.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из tg_bot.auto_delivery_cp.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из tg_bot.config_loader_cp.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из tg_bot.templates_cp.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из tg_bot.plugins_cp.py зарегистрированы.
+[14:18:24][cardinal.py][712]> I: Хэндлеры из tg_bot.file_uploader.py зарегистрированы.
+[14:18:25][bot.py][1027]> I: Telegram бот @Dota2Funpaysms_bot запущен.
+[14:18:30][cardinal.py][212]> I: 
+[14:18:30][cardinal.py][212]> I: ------------------------------------------------------------
+[14:18:30][cardinal.py][212]> I: * Добрый день, DotaAccRent.                                *
+[14:18:30][cardinal.py][212]> I: * Ваш ID: 7648138.                                         *
+[14:18:30][cardinal.py][212]> I: * Ваш текущий баланс: 10.0 RUB | 0.0 USD | 0.0 EUR         *
+[14:18:30][cardinal.py][212]> I: * Текущие незавершенные сделки: 0.                         *
+[14:18:30][cardinal.py][212]> I: * Удачной торговли!                                        *
+[14:18:30][cardinal.py][212]> I: ------------------------------------------------------------
+[14:18:30][cardinal.py][212]> I: 
+[14:18:30][cardinal.py][238]> I: Получаю данные о лотах и категориях...
+[14:18:30][updater.py][92]> D: Update status code is 404!
+[14:18:30][cardinal.py][263]> I: Обновил информацию о лотах (2) и категориях (1) профиля.
+[14:18:30][cardinal.py][267]> I: Обновил информацию о лотах (2) и категориях (1) профиля (TG ПУ).
+[14:18:30][cardinal.py][497]> I: Цикл автоподнятия лотов запущен (это не значит, что автоподнятие лотов включено).
+[14:18:30][cardinal.py][515]> I: Цикл обновления сессии запущен.
+[14:18:31][runner.py][113]> D: Получены данные о событиях: {'objects': [{'type': 'orders_counters', 'id': 7648138, 'tag': '5ertbpf7', 'data': {'buyer': 0, 'seller': 0}}, {'type': 'chat_bookmarks', 'id': 7648138, 'tag': '87fx7nip', 'data': {'counter': 0, 'message': 0, 'html': '<div class="chat-full-header">\n    <h1>Сообщения</h1>\n</div>\n<div class="contact-list custom-scroll">\n                    <a href="https://funpay.com/chat/?node=68117387" class="contact-item" data-id="68117387">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(https://s.funpay.com/s/avatar/kl/9i/kl9i50myhhj9jn76fwxb.jpg);"></div>\n            </div>\n            <div class="media-user-name">XuperX</div>\n                            <div class="contact-item-message">Покупатель XuperX написал отзыв к заказу #E3RGN157.</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68203201" class="contact-item" data-id="68203201">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">azurebossu</div>\n                            <div class="contact-item-message">все, уже не над</div>\n                <div class="contact-item-time">вчера</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68173812" class="contact-item" data-id="68173812">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">Flycking</div>\n                            <div class="contact-item-message">\u2064Так что вы будете покупать?</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68142775" class="contact-item" data-id="68142775">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">dotacimustafaka12</div>\n                            <div class="contact-item-message">\u2064Давай я щас лот создам за 150₽</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n                    <a href="https://funpay.com/chat/?node=68109913" class="contact-item" data-id="68109913">\n            <div class="contact-item-photo">\n                <div class="avatar-photo" style="background-image: url(/img/layout/avatar.png);"></div>\n            </div>\n            <div class="media-user-name">FunPay</div>\n                            <div class="contact-item-message">Также иногда мошенники присылают скриншоты «оплаты», которым ни в коем случае нельзя доверять.\n\nПеред выполнением заказа всегда проверяйте наличие оплаты в разделе «Мои продажи».\n\nНа всякий случай повторяем ещё раз самое главное:\n\nПеред выполнением з</div>\n                <div class="contact-item-time">13.06</div>\n                    </a>\n    </div>'}}], 'response': False}
+[14:18:31][account.py][740]> D: Ответ FunPay (поднятие категорий): {'msg': 'Подождите 2 часа.', 'error': 1}.
+[14:18:31][cardinal.py][315]> W: Не удалось поднять лоты категории "Dota 2". FunPay говорит подождать еще 2ч.
+[14:18:32][updater.py][92]> D: Update status code is 404!
+[14:18:35][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:39][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:43][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:47][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:51][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:18:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:04][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:12][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:16][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:29][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:41][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:45][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:19:58][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:02][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:06][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:10][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:15][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:19][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:23][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:27][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:31][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:35][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:39][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:44][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:48][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:52][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:20:56][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:00][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:04][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:08][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:13][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:17][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:21][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:25][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:29][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:33][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:37][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:42][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:46][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:50][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
+[14:21:54][runner.py][113]> D: Получены данные о событиях: {'objects': [], 'response': False}
